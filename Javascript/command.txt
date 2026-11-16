@@ -1,0 +1,5 @@
+npm install prompt-sync
+npm install readline-sync
+
+CRUD(Create; Read; Update; Delete; )
+API: Application Interface; C'est un Sous environement qui interconnect deux environement different;
