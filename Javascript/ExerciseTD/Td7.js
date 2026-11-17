@@ -1,5 +1,5 @@
 const promp = require("prompt-sync")()
-a = promp("Saisissez la note de l_etudiant: ")
+a = Number(promp("Saisissez la note de l_etudiant: "))
 if(a<=9){
     console.log("Ajourner")
 }else if(a>=10 || a<=11){
